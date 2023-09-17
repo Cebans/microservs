@@ -1,0 +1,7 @@
+{
+  "name": "microservs_data",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
